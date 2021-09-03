@@ -1,5 +1,8 @@
 # FutStats
-Simple java program to ease the work of football observers.
+Java program to ease the work of football observers.
+
+![alt text](https://raw.githubusercontent.com/garcibo/FutStats/master/cfut.PNG)
+
 
 To use just execute the fut.jar file
 
